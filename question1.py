@@ -4,7 +4,7 @@ Expected Output :
 No. of Upper case characters : 3
 No. of Lower case Characters : 12'''
 
-def upper_lower_count(word):
+def upper_lower_case_count(word):
     # number of uppercase letters
     upperCount = 0
     # number of lowercase letters
