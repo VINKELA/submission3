@@ -1,4 +1,4 @@
-''' This  function  finds the Max of three numbers'''
+''' This  function  finds the Maximum of three numbers'''
 
 def maximum_of(first, second, third):
     # check if first,  second, and third are all valid int
